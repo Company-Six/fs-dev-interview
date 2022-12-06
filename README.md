@@ -18,17 +18,16 @@ A non-exhaustive list of things we'd like to see:
 ## Scope of Interview
 
 1. [Coding skills](#code) (30 min)
-2. [System design](#sys) (20 min)
-3. [Behavioral Q&A](#qa) (10 min)
-
+2. [Behavioral Q&A](#qa) (10 min)
+3. [System design](#sys) (20 min)
 
 ------
 
-### [Coding](code)
+### 1. [Coding](code)
 Open `./src/client.js` to get started on the coding exercise. (30 min)
 
-### [System Design](sys)
-Open `design` to start reviewing the problem statement. (20 min)
-
-### [Behavioral Q&A](qa)
+### 2. [Behavioral Q&A](qa)
 Open `q&a` to begin the final step. (10 min)
+
+### 3. [System Design](sys)
+Open `design` to start reviewing the problem statement. (20 min)
