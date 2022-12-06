@@ -27,7 +27,7 @@ A non-exhaustive list of things we'd like to see:
 Open `./src/client.js` to get started on the coding exercise. (30 min)
 
 ### 2. [Behavioral Q&A](qa)
-Open `q&a` to begin the final step. (10 min)
+Open `q&a` to start workplace scenarios. (10 min)
 
 ### 3. [System Design](sys)
 Open `design` to start reviewing the problem statement. (20 min)
