@@ -24,7 +24,8 @@ A non-exhaustive list of things we'd like to see:
 ------
 
 ### 1. [Coding](code)
-Open `./src/client.js` to get started on the coding exercise. (30 min)
+1. Open [repl](https://replit.com/@NickVinson1/Client#src/client.js) of project.
+2. Open `./src/client.js` to get started on the coding exercise. (30 min)
 
 ### 2. [Behavioral Q&A](qa)
 Open `q&a` to start workplace scenarios. (10 min)
